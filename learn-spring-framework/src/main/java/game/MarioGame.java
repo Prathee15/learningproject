@@ -13,7 +13,7 @@ public class MarioGame implements GamingConsole
 
     public void down()
     {
-        System.out.println("down");
+        System.out.println("down and down");
 
     }
 
