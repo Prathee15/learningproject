@@ -11,6 +11,7 @@ public class GameRunner
 
     public GameRunner(GamingConsole game)
     {
+        //chage it
           this.game = game;
     }
 
